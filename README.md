@@ -10,9 +10,6 @@
 <sup>2</sup> Shanghai Jiao Tong University  
 <sup>*</sup> Equal contribution.
 
-**Paper:** arXiv link will be added after the preprint is publicly available.  
-**Code:** Not yet published in this repository.
-
 ## News
 
 - **November 2026:** SOAR repository established.
