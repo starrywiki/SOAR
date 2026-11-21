@@ -5,10 +5,11 @@
 
 **Official repository for SOAR**, a training-free method for accelerating latent world-model planning by preserving candidate rankings rather than dense rollout features.
 
-**Authors:** [Anqi Li](https://github.com/starrywiki)<sup>1,2,*</sup>, [Kai Liu](https://kai-liu.cn/)<sup>2,*</sup>, Linghe Kong<sup>2</sup>, [Yulun Zhang](https://yulunzhang.com/)<sup>2</sup>  
+**Authors:** [Anqi Li](https://starrywiki.github.io/)<sup>1,&#42;</sup>, [Kai Liu](https://kai-liu.cn/)<sup>2,&#42;</sup>, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/)<sup>2</sup>, [Yulun Zhang](https://yulunzhang.com/)<sup>2</sup>
+
 <sup>1</sup> Zhiyuan College, Shanghai Jiao Tong University  
 <sup>2</sup> Shanghai Jiao Tong University  
-<sup>*</sup> Equal contribution.
+<sup>&#42;</sup> These authors contributed equally.
 
 ## News
 
