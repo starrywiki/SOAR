@@ -1,8 +1,8 @@
 # SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning
 
-[![GitHub stars](https://img.shields.io/github/stars/starrywiki/SOAR?style=social)](https://github.com/starrywiki/SOAR/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2611.27639-b31b1b.svg)](https://arxiv.org/abs/2611.27639)
+[![GitHub stars](https://img.shields.io/github/stars/starrywiki/SOAR?style=social)](https://github.com/starrywiki/SOAR/stargazers)
   
 **Official repository for SOAR**, a training-free method for accelerating latent world-model planning by preserving candidate rankings rather than dense rollout features.
 
