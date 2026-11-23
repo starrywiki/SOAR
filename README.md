@@ -2,7 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/starrywiki/SOAR?style=social)](https://github.com/starrywiki/SOAR/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2611.27639-b31b1b.svg)](https://arxiv.org/abs/2611.27639)
+  
 **Official repository for SOAR**, a training-free method for accelerating latent world-model planning by preserving candidate rankings rather than dense rollout features.
 
 **Authors:** [Anqi Li](https://starrywiki.github.io/)<sup>1,&#42;</sup>, [Kai Liu](https://kai-liu.cn/)<sup>2,&#42;</sup>, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/)<sup>2</sup>, [Yulun Zhang](https://yulunzhang.com/)<sup>2</sup>
@@ -13,7 +14,7 @@
 
 ## News
 
-- **November 2026:** SOAR repository established.
+- **November 2026:** SOAR is now available on [arXiv](https://arxiv.org/abs/2611.27639).
 
 ## Abstract
 
@@ -66,7 +67,7 @@ The study shows that **when computation is spent matters more than which spatial
 
 ## Code and Reproduction
 
-The public repository currently contains the license only. Implementation, environment setup, and benchmark commands have **not yet been released**; we will update this section when those files become available.
+The code will be released soon.
 
 ## Citation
 
@@ -74,14 +75,15 @@ If you find SOAR useful, please cite:
 
 ```bibtex
 @misc{li2026soar,
-  title  = {SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning},
-  author = {Li, Anqi and Liu, Kai and Kong, Linghe and Zhang, Yulun},
-  year   = {2026}
+  title={SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning},
+  author={Li, Anqi and Liu, Kai and Kong, Linghe and Zhang, Yulun},
+  year={2026},
+  eprint={2611.27639},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2611.27639}
 }
 ```
-
-*Replace this preliminary citation with the official arXiv BibTeX entry once the paper is publicly listed.*
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Third-party models, datasets, and benchmarks retain their respective licenses.
